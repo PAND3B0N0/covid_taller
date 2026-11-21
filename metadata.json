@@ -1,0 +1,6 @@
+{
+  "name": "Datos COVID-19 — COVID Notify",
+  "description": "Aplicación interactiva que consume la API pública disease.sh, convierte el JSON en un modelo tipado, gestiona notificaciones locales y replica el taller completo de Flutter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
